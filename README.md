@@ -1,3 +1,3 @@
 # SpimpleEggTimer
-Android main code , Java.
+Android main java code , 
 A very simple timer app
